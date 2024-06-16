@@ -1,1 +1,1 @@
-# silkworms-disease-detection
+# grape leaf-disease-detection
