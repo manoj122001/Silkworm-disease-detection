@@ -29,7 +29,7 @@ TensorFlow and Keras
 Clone the Repository
 bash
 Copy code
-git clone https://github.com/yourusername/silkworm-disease-detection.git
+git clone https://github.com/manoj122001/silkworm-disease-detection
 cd silkworm-disease-detection
 Create a Virtual Environment (Optional but Recommended)
 bash
